@@ -1,7 +1,7 @@
 # TESSELLATE flare star catalogue
 
 Website for stellar flares found in TESS full-frame images by the TESSELLATE transient search, published with
-GitHub Pages at <https://hughroxburgh.github.io/tessellate_flares/>. Companion to the
+GitHub Pages at <https://tessellate-sky-survey.github.io/flare_stars/>. Companion to the
 [TESSELLATE asteroid catalogue](https://cheerfuluser.github.io/tessellate_asteroid/), and styled to match it
 (same layout and tokens; red accent where the asteroids use purple).
 
